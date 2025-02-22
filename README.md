@@ -27,5 +27,5 @@ This report analyzes emergency room visits, highlighting key trends in patient d
 
 ## Results & Screenshots
 ![Monthly View ](https://github.com/Mahdy-Wagdy/Emergency-Room-Analysis/blob/main/Monthly%20View.png) 
-![Consolidated View](https://github.com/Mahdy-Wagdy/Emergency-Room-Analysis/blob/main/Consolidated%20View.png) 
+![Patient Details](https://github.com/Mahdy-Wagdy/Emergency-Room-Analysis/blob/main/Patient%20Details%20Dashboard.png) 
 
