@@ -26,4 +26,6 @@ This report analyzes emergency room visits, highlighting key trends in patient d
 3. Review the SQL queries used to extract and analyze the data in the SQL script files.
 
 ## Results & Screenshots
-![Emergency Room ](https://github.com/Mahdy-Wagdy/Emergency-Room-Analysis/blob/main/Monthly%20View.png))
+![Monthly View ](https://github.com/Mahdy-Wagdy/Emergency-Room-Analysis/blob/main/Monthly%20View.png) 
+![Consolidated View](https://github.com/Mahdy-Wagdy/Emergency-Room-Analysis/blob/main/Consolidated%20View.png) 
+
